@@ -1,0 +1,1 @@
+100;computadora;INTEL I3 8G RAM;25000;100
